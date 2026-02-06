@@ -1,5 +1,4 @@
 🏠 House Price Prediction Using Linear Regression
-A simple yet effective linear regression model for predicting house prices based on key property features.
 
 This project implements a linear regression model to predict house prices based on three essential features: square footage, number of bedrooms, and number of bathrooms. The model provides reliable price estimates to assist buyers, sellers, and real estate professionals in making data-driven decisions.
 
